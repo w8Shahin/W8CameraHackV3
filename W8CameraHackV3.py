@@ -1891,12 +1891,12 @@ def get_country(ip):
 
 
 def print_banner():
-    """Display main banner - same style as W8CameraHackV2.py"""
+    """Display main banner - same style as SHCameraHackV2.py"""
     banner = f"""
 ╔═══════════════════════════════════════╗
 ║   Camera Login Valid Checker v3.0     ║
 ║   W8Team - IP Scanner & Collector     ║
-║   Credit: W8Team/W8SOJIB              ║
+║   Credit: SHAHIN/MOJUMDER              ║
 ╚═══════════════════════════════════════╝
 """
     print(f"{Fore.RED}{banner}{Style.RESET_ALL}")
