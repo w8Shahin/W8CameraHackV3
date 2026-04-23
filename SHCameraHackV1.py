@@ -1891,7 +1891,7 @@ def get_country(ip):
 
 
 def print_banner():
-    """Display main banner - same style as SHCameraHackV2.py"""
+    """Display main banner - same style as SHCameraHackV1.py"""
     banner = f"""
 ╔═══════════════════════════════════════╗
 ║   Camera Login Valid Checker v3.0     ║
